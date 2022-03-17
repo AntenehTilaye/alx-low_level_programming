@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main- starting point
- * Return: returns 0 for os
+ * positive_or_negative- checks if the number is positive or not
+ * @n: number that is passed to the function
  * Description: this program checks if the number is positive or not
  */
 
