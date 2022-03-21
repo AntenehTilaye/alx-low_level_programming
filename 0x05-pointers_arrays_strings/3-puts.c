@@ -3,10 +3,9 @@
 /**
  * _puts - check for upper case letter
  * @str : first param
- * Return: returns int
  */
 
-int _puts(char *str)
+void _puts(char *str)
 {
 	int i = 0;
 
@@ -16,5 +15,4 @@ int _puts(char *str)
 		i++;
 	}
 	_putchar('\n');
-	return (0);
 }
