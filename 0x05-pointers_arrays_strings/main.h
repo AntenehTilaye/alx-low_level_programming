@@ -3,3 +3,4 @@ void swap_int(int *a, int *b);
 int _strlen(char *str);
 int _putchar(char ch);
 void _puts(char *str);
+void print_rev(char *str);
