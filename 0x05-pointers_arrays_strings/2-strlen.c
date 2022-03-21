@@ -2,8 +2,8 @@
 
 /**
  * _strlen - check for upper case letter
- * @n : first param
- * Return : returns int
+ * @str : first param
+ * Return: returns int
  */
 
 int _strlen(char *str)
